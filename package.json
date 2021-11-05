@@ -1,0 +1,19 @@
+{
+  "name": "react-graphql",
+  "version": "1.0.0",
+  "description": "CMR Created with React, GraphQL and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "Daniel Santiago Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.4.1",
+    "graphql": "^15.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
